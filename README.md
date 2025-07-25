@@ -1,6 +1,6 @@
 # Portfolio of Vinayak Singh
 
-<img src ="Images/WebsiteImage.png" />
+<img src ="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1753426457/jpsy52w2gmhpiac8gbhl.jpg" />
  
 This project was created with CRA (Create React App)
 
